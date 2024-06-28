@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SteamAchieves.Web.Client",
   "resources": {
-    "hash": "sha256-G5/yHmt9vJKkl8iAVW2gNr3+/WGGl0gRKDGneWe++Zw=",
+    "hash": "sha256-/QEcsWBP4K72dHcLlvFZbtrGdvFA8oUnHGGJlb0UuFE=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.w0bv1t61n6.js": "sha256-oXccQn9rICGrmJCU3+W/8JiZeUiNSyNwKlDJJuHaJHs="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-opoh5mb9g1OUt3obpwrrOvmcQ+5UbUJPcBRMoP63AhU=",
       "Microsoft.JSInterop.wasm": "sha256-DOtnQ3+rR9fdahebbFqXxx60H7B8jR03AaYj4y/r7z4=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-nJo9AftA2/mHxtXapqHsgjzQgIHOpue2DnVtxkgTSME=",
-      "SteamAchieves.Web.Client.wasm": "sha256-WWEAeu97I8i04d/BkvXJcK1mQHs0glR7U3OaCXYZuEg=",
+      "SteamAchieves.Web.Client.wasm": "sha256-Gy5qEBNhBxSp/Q7Sl+QyjUJdwAmAssMcegO1A6i3eu4=",
       "System.Collections.Concurrent.wasm": "sha256-fy0jPil7fHjM/n+HnradCf8JgNeiz1wDaZ1W5e+U4II=",
       "System.Collections.wasm": "sha256-L3XxBH2Rpx9ai34lZLoIdBFr2ufhD4eenj4I8gkbhto=",
       "System.ComponentModel.wasm": "sha256-tqO2Y4mD7n9rI1g+QSashz42lb50djXmx3ECzGEqbcY=",
